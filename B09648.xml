@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Universit Oxon. To [blank] being by us nominated and appointed presenters and assessors for [blank] within by virtue and in pursuance of an act of Parliament intituled An act for raising money by a poll and otherwise to enable His Majesty to enter into an actual war against the French king and for prohibiting several French commodities ...</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09648</idno>
+            <idno type="STC">Wing O984C</idno>
+            <idno type="STC">ESTC R181283</idno>
+            <idno type="EEBO-CITATION">61297116</idno>
+            <idno type="OCLC">ocm 61297116</idno>
+            <idno type="VID">180642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180642)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2838:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Universit Oxon. To [blank] being by us nominated and appointed presenters and assessors for [blank] within by virtue and in pursuance of an act of Parliament intituled An act for raising money by a poll and otherwise to enable His Majesty to enter into an actual war against the French king and for prohibiting several French commodities ...</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford:</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: University of Oxford coat of arms.</note>
+                  <note>Title from first line of text.</note>
+                  <note>Imperfect: broadside stained and torn with some loss of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford --  History --  Sources.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+               <term>Great Britain --  History, Military --  1603-1714 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180642:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>English royal blazon, flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <head>To <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> being by us nominated and appointed Preſenters and Aſſeſſors for <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> within <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>
+            </head>
+            <p>
+               <hi>BY Virtue, and in purſuance of an Act of Parliament, Intituled,</hi> An Act for raiſing Money by a Poll, and otherwiſe, to enable His Majeſty, to enter into an actual War againſt the <hi>French King,</hi> and for prohibiting ſeveral <hi>French</hi> Commodities. <hi>And for the more ſpeedy and effectual putting the ſaid Act in execution: You are hereby in His Majeſties Name required, with all care and diligence, to aſcertain, and bring in unto us, (being by the ſaid Act amongſt others appointed Commiſſioners to put the ſaid Act in execution) Certificates of the Names and Sirnames, Quali<g ref="char:EOLhyphen"/>ties, Degrees and Titles, of all and every the perſon and perſons dwelling, or reſiding within your ſaid Colledge, or Hall, and of the ſubſtances and values of every of them, in Money, Debts, Annual Fees, Salaries, Perquiſites, Wages, Profits, Emoluments, and other things chargeable by the ſaid Act, together with the Aſſeſsment of the reſpective Rates thereby impoſed on each particular perſon, according to the Rules and Directions thereof, which are as followeth, <hi>(viz.)</hi>
+               </hi>
+            </p>
+            <p>Every perſon, Bodies Politick and Corporate, Guildes or Fraternities, within <hi>England, Wales,</hi> or <hi>Berwick</hi> upon <hi>Tweede,</hi> having any perſonal Eſtate in Debts to them owing, which he or they do not accompt and eſteem as deſperate, (over and beſides ſuch juſt Debts, as He, She, or they ſhall <hi>bona fide</hi> owe,) or Eſtate in ready Moneys, are, for every hundred pounds in ſuch Debts and ready Money, to pay <hi>20. s.</hi> (Yet no Money which ſhall be lent to His Majeſty at <hi>7 per Cent.</hi> upon the Security of the ſaid Act, is to be rated or aſſeſſed.)</p>
+            <p>Every perſon and perſons, Commiſſioner or Commiſſioners, having, uſing, or exerciſing, any Office, Place, or Publick employment, (ſuch who are or ſhall be in Muſter and Pay at Land or Sea, in reſpect of ſuch their pay only excepted) and all and every their Deputies, Agents, Clerks, Secon<g ref="char:EOLhyphen"/>daries, Subſtitutes, and other their inferior Miniſters and Servants, are, out of every <hi>20. s.</hi> which he or they do receive in one Year, by vertue of any Salary, Fees, Profits, Perquiſites, or other advantages to him or them accrewing, or by reaſon, or occaſion of their reſpective Commiſſions, Offices, Agencies and Imployments, to pay the ſum of <hi>2 s.</hi>
+            </p>
+            <p>Every other perſon having or claiming any Pention, or yearly Stipend, or Annuity, out of any part of His Majeſties Revenue, exceeding <hi>20 l. per Annum,</hi> are out of every <hi>20 s.</hi> by the year ſo given or granted, to pay the ſum of <hi>3 s.</hi>
+            </p>
+            <p>All Iudges and other perſons, having any Iudicial Office, or other Office, or Place of Profit, all Serjeants at Law, Councellors, Attornies, Sol<g ref="char:EOLhyphen"/>licitors, and Scrivenors, and all Advocates, Proctors, and publick Notaries, and all practiſing the Art of Phyſick, are, out of every <hi>20 s.</hi> which he or they do receive by his or their reſpective Sallaries, Offices, Practices, or Profeſſions in one year, to pay the ſum of <hi>2 s.</hi>
+            </p>
+            <p>Every Servant who doth receive Wages, is, for every <hi>20 s.</hi> by the year, which ſhall be due or payable to him, her, or them for Wages, (except Board-Wages) to pay <hi>12 d.</hi>
+            </p>
+            <p>All and every perſon and perſons, of what Age, Sex, or condition ſoever, are to pay <hi>1 s.</hi> above the rates charged upon them by the ſaid Act (except ſuch as receive Alms of the Pariſh where they dwell, and their Children, under the Age of <hi>16</hi> years, and except the Children under the Age of <hi>16</hi> years; of all day Labourers, of all Servants in Husbandry, and of all others who by reaſon of their poverty are exempted from contributing to the charge of Church and Poor; and except the children, under the Age of <hi>16</hi> years, of ſuch who have four or more children, and are not worth <hi>50 l.</hi> in Lands, Goods and Ch<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttels.</p>
+            <p>All and every perſon and perſons, of the ſeveral Ranks and Degrees hereafter mentioned, of any of the thrée Kingdoms of <hi>England, Scotland,</hi> or <hi>Ireland,</hi> who are inhabiting and reſiding within this Kingdom, are to pay the ſeveral ſums hereafter mentioned, <hi>(viz.)</hi> A <hi>Duke 50 l.</hi> a <hi>Marqueſs 40 l.</hi> an <hi>Earl 30 l.</hi> a <hi>Viſcount 25 l.</hi> a <hi>Baron 20 l.</hi> (But the Offices or perſonal Eſtates of the Peers you are not to aſſeſs; the ſame being otherwiſe directed by the ſaid Act.)</p>
+            <p>And all and every the Son and Sons of the ſeveral perſons of the Degrees of Nobility aforeſaid, of any of the three Kingdoms of <hi>England, Scotland,</hi> or <hi>Ireland,</hi> who are inhabiting and reſiding within this Kingdom, and of the Age of <hi>1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> years are to pay the ſeveral ſums hereafter mentioned, <hi>(viz.)</hi> a <hi>Dukes</hi> eldeſt Son <hi>30 l.</hi> every his other Sons <hi>25 l.</hi> a <hi>Marqueſs</hi> eldeſt Son <hi>25 l.</hi> every his other Sons <hi>20 l.</hi> and <hi>Earls</hi> eldeſt Son <hi>20 l.</hi> every his other Sons <hi>15 l.</hi> a <hi>Viſcounts</hi> eldeſt Son <hi>17 l. 10 s.</hi> every his other Sons <hi>13 l. 6 s. 8 d.</hi> a <hi>Barons</hi> eldeſt Son <hi>15 l.</hi> every his other Sons <hi>12 l.</hi> A Baronet of any the ſaid three Kingdoms, or of <hi>Nova Scotia,</hi> and reſiding within this Kingdom, is to pay <hi>15 l.</hi>
+            </p>
+            <p>And all and every perſon and perſons, of the ſeveral Ranks and Degrees hereafter mentioned, who are inhabiting and reſiding within this Kingdom, are to pay the ſeveral ſums hereafter mentioned, <hi>(viz.)</hi> a <hi>Knight</hi> of the <hi>Bath 15 l.</hi> a <hi>Knight</hi> Batchellour <hi>10 l.</hi> the Kings Serjeant at Law <hi>20 l</hi> every other Serjeant at Law <hi>15 l.</hi> an Eſq or ſo reputed, or owning, or writing himſelf ſuch, and of the age of <hi>16</hi> Years <hi>5 l</hi> a Gent. or reputed Gent. or owning, or writing himſelf ſuch, and above the age of <hi>16</hi> Years <hi>20 s.</hi> Every Widow according to the degree of her Husband, (except the Widow of an Eccleſiaſtical perſon,) is to pay a third part rated in the ſaid Act upon that degree of which her Husband was in his life time.</p>
+            <p>Every Gent. having an Eſtate of the value of <hi>300 l.</hi> or more, (though a Minor, under the age of <hi>21</hi> Years,) is to pay <hi>20 s.</hi> A Gent. of a leſs Eſtate, who ſhall thereof make Oath before two or more of the Commiſſioners, is not to pay <hi>20 s.</hi> in reſpect of his Title.</p>
+            <p>Every perſon and perſons, who are of the ſeveral Orders, Ranks or Degrees h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reafter mentioned, are to pay the ſeveral ſums following, <hi>(viz.)</hi> An Arch-Biſhop <hi>50 l.</hi> every other Biſhop <hi>20 l.</hi> a Dean of any Cathedral or Collegiate Church <hi>10 l.</hi> an Arch-Deacon <hi>50 s.</hi> a Cannon or Prebendary of any Cathedral or Collegiate Church <hi>50 s.</hi> (except ſuch ſole Prebendary who is a ſole Corporation and his Prebend not rated in the Exchequer above <hi>30 l.</hi>) a Doctor of Divinity, Law, or Phyſick, is to pay <hi>5 l.</hi> (But if a Dr. of Divinity have no Benefice, or Eccleſiaſtical preferment, he is not to be charged for his Title.) Every perſon holding two or more Benefices having cure if Souls, which together ſhall amount to <hi>120 l. per Annum</hi> clear, is to pay <hi>5 l.</hi>
+            </p>
+            <p>Every Merchant Trading in the Port of <hi>London,</hi> and reſiding there, or within <hi>10</hi> Miles thereof, and not Free of the ſaid City, is to pay <hi>10 l.</hi> And every Merchant ſtranger, reſiding within this Kingdom, is alſo to pay <hi>10 l.</hi> Every Merchant or other perſon uſing any Trade or mannual occupation, and holding a Houſe of <hi>30 l. per Annum,</hi> within <hi>London</hi> and Weekly Bills of Mortality, is to pay <hi>10 s.</hi> Every Member of the <hi>Eaſt-India Company,</hi> for every <hi>100 l.</hi> which he hath in the Ioynt-ſtock of the ſaid <hi>Company,</hi> is to pay <hi>20 s.</hi> according to the firſt Capital of the ſaid Stock.</p>
+            <p>Every Member af the <hi>Guinay Company</hi> is to pay in like menner, And to be paid by the Governours and Treaſurers of the ſaid Companies.</p>
+            <p>
+               <hi>Which ſaid Aſſeſments you are to make according to the ſaid Rules and Directions of the ſaid Act, without Concealment, Love, Favour, Dread or Malice, notwithſtanding any Perſon or Perſons, Cities, Burroughs, or Towns Corporate, ſhall have the Letters, Patents, of His Majeſty or any His Royal Progenitors of exemptions, (all <hi>non obſtantes</hi> in ſuch Letter, Patents, made or to be made, in Bar of any Act or Acts of Parliament for ſupply or aſſiſtance of His Majeſty, being thereby declared void.) And you are likewiſe to return unto us, the names of two or more able and ſufficient Perſons within the Precincts and Bounds of your ſaid Colledge, or Hall, to be Collectors of the Monies due to His Majeſty by the ſaid Act, for whoſe paying unto the Receiver General, to be appointed by His Majeſty, his Deputy or Deputies, all ſuch Monies as they ſhall be charged withal, your ſaid Colledge or Hall is to be anſwerable.) And for your more due proceeding, in the Premiſes, you are further by the ſaid Act directed that every Perſon to be rated for his Office, is to be rated in the place where the ſaid Office is to be executed, and that every Perſon to be otherwiſe rated, are to be rated at ſuch places where he or ſhe, and with his or her Family are reſident: And that ſuch as are not Houſe-keepers, nor having a certain place of abode, and all Servants, are to be taxed at the place where they are reſident, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> be out of the Realm at the time of Aſſeſſing, are to be rated where their laſt abiding was within the Realm. But you are by the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to Aſſeſs us, or any Commiſſioners joyned with us, nor are you to Aſſeſs your ſelves, (the ſame being otherwiſe appointed <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſaid <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> notomit to return ſuch of us, or other Commiſſioners joyned with us, which inhabit and reſide within your Colledge, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> your <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>es Qualities, Degrees, Titles, Offices, Eſtates<g ref="char:punc">▪</g> and other things chargeable by the ſaid Act, nor are you doubly to charge <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſevera;l Titl<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Honours, or Degrees, but every ſuch Perſon is to be charged and aſſeſſed for ſuch Title, Honour, or <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> And after the ſame Certificat<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and Aſſeſment ſhall be made, rated, and perfected, which by the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> You are hereby likewiſe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to bring the ſame unto us, or any two or more of <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> upon or before the 10<hi rend="sup">th</hi> day of <hi>May</hi> now next <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+               </hi>
+            </p>
+            <closer>
+               <dateline>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>Given under our Hands and <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <date>the <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of our Sovereign Lord <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Dom.</hi> 1678.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
